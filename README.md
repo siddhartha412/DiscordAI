@@ -32,7 +32,7 @@ Welcome to **discordai**, the bot that refines responses using **Gemini AI** and
 1. **Set Up Your Environment**:
    - Clone the repository:
      ```bash
-     git clone https://github.com/your-username/discordai.git
+     git clone https://github.com/siddhartha412/discordai.git
      cd discordai
      ```
    - Set up a **virtual environment** and install dependencies:
